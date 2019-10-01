@@ -1,4 +1,0 @@
-class AnswererAnswer < ApplicationRecord
-  
-
-end
